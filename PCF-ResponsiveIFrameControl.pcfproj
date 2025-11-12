@@ -8,8 +8,8 @@
   <Import Project="$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props" Condition="Exists('$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props')" />
 
   <PropertyGroup>
-    <Name>responsiveiFramePCFControl</Name>
-    <ProjectGuid>aba1eab8-c73c-4953-b648-da3bd64b744c</ProjectGuid>
+    <Name>PCF-ResponsiveIFrameControl</Name>
+    <ProjectGuid>844a4125-2eac-4ea5-8198-7ea883e2bf87</ProjectGuid>
     <OutputPath>$(MSBuildThisFileDirectory)out\controls</OutputPath>
   </PropertyGroup>
 
